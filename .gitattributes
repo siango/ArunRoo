@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.apk binary
+
+*.md diff=markdown
+*.java diff=java
+*.kt diff=java
+*.kts diff=java
+*.gradle diff=java
+*.xml diff=xml
